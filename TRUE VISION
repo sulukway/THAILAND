@@ -1,21 +1,42 @@
 #EXTM3U
-#EXTINF:-1,Suluk® → TRHILL
-http://cdn2.bear-tv.com/freetv/TOT_Thrill/playlist.m3u8
-#EXTINF:-1,Suluk® → WARNER TV
-http://main-a.for-our.info:8081/tv11/wbtv/chunks.m3u8
-#EXTINF:-1,Suluk® → Cartoon Network
-http://main-a.for-our.info:8081/tv11/cartoonnetwork/chunks.m3u8
-#EXTINF:-1,Suluk® → DISNEY CHANNEL
-http://main-a.for-our.info:8081/tv11//disney/chunks.m3u8
-#EXTINF:-1,Suluk® → NICK JR
-http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
-#EXTINF:-1,Suluk® → DISNEY XD
-http://main-a.for-our.info:8081/tv11/disneyxd/chunks.m3u8
-#EXTINF:-1,Suluk® → BOOMERANG
-http://main-a.for-our.info:8081/tv1/ch18.m3u8
-#EXTINF:-1,Suluk® → CARTOON CLUB
-https://p0.adintrend.com/live/ch31/i/ch31i.m3u8
-#EXTINF:-1,Suluk® → ANIMAL PLANET
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/15.m3u8
+#EXTINF:-1, ANIPLUS
+http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
+#EXTINF:-1, CARTOON NETWORK
+http://mtr.iptv35.com:1958/live/sadettin35/sadettin35/17811.ts
+#EXTINF:-1, DISNEY CHANNEL
+http://mtr.iptv35.com:1958/live/sadettin35/sadettin35/17805.ts
+#EXTINF:-1, DISNEY CHANNEL HD
+http://mtr.iptv35.com:1958/live/sadettin35/sadettin35/17804.ts
+#EXTINF:-1, DISNEY CINEMAGIC
+http://mtr.iptv35.com:1958/live/sadettin35/sadettin35/17807.ts
+#EXTINF:-1, DISNEY CINEMAGIC HD
+http://mtr.iptv35.com:1958/live/sadettin35/sadettin35/17806.ts
+#EXTINF:-1, DISNEY JUNIOR
+http://mtr.iptv35.com:1958/live/sadettin35/sadettin35/17801.ts
+#EXTINF:-1, DISNEY JUNIOR HD
+http://mtr.iptv35.com:1958/live/sadettin35/sadettin35/17800.ts
+#EXTINF:-1, DISNEY XD
+http://mtr.iptv35.com:1958/live/sadettin35/sadettin35/17803.ts
+#EXTINF:-1, NICKELODEON
+http://mtr.iptv35.com:1958/live/sadettin35/sadettin35/17809.ts
+#EXTINF:-1, NICKELODEON HD
+http://mtr.iptv35.com:1958/live/sadettin35/sadettin35/17808.ts
+#EXTINF:-1, JUNIOR
+http://mtr.iptv35.com:1958/live/sadettin35/sadettin35/17802.ts
+#EXTINF:-1,Disney XD
+http://vismanx1.com:8080/live/eylul11/eylul11/1575.ts
+#EXTINF:-1,NICK JR
+http://vismanx1.com:8080/live/eylul11/eylul11/1573.ts
+#EXTINF:-1,Disney Junior
+http://vismanx1.com:8080/live/eylul11/eylul11/1576.ts
+#EXTINF:-1, NATIONAL GEOGRAPHIC
+http://103.242.13.90:5555/udp/239.4.1.61:10000
+#EXTINF:-1, NAT GEO WILD
+http://103.242.13.90:5555/udp/239.4.1.62:10000
+#EXTINF:-1, CGTN DOCUMENTARY
+http://lihattv.com/?play=43404
+#EXTINF:-1, DISCOVERY WORLD HD
+http://103.242.13.90:5555/udp/239.4.1.20:10000
+
 
 
